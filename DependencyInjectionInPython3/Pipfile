@@ -1,0 +1,11 @@
+[requires]
+python_version = "3.8"
+
+[dev-packages]
+flake8 = "==3.7.9"
+pytest = "==5.3.5"
+pytest-mock = "==2.0.0"
+tox = "==3.14.3"
+
+[packages]
+dependency-injector = "==3.15.4"
