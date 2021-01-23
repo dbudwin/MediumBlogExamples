@@ -1,0 +1,119 @@
+[
+    {
+        "model": "blogs.Post",
+        "pk": 1,
+        "fields": {
+            "title": "Why the Sky is Blue"
+        }
+    },
+    {
+        "model": "blogs.Post",
+        "pk": 2,
+        "fields": {
+            "title": "How Many Licks Does It Take to Get to the Center of a Tootsie Pop?"
+        }
+    },
+    {
+        "model": "blogs.Post",
+        "pk": 3,
+        "fields": {
+            "title": "What Came First, the Chicken or the Egg?"
+        }
+    },
+    {
+        "model": "blogs.Comment",
+        "pk": 1,
+        "fields": {
+            "post_id": 1,
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        }
+    },
+    {
+        "model": "blogs.Comment",
+        "pk": 2,
+        "fields": {
+            "post_id": 1,
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        }
+    },
+    {
+        "model": "blogs.Comment",
+        "pk": 3,
+        "fields": {
+            "post_id": 1,
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        }
+    },
+    {
+        "model": "blogs.Comment",
+        "pk": 4,
+        "fields": {
+            "post_id": 1,
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        }
+    },
+    {
+        "model": "blogs.Comment",
+        "pk": 5,
+        "fields": {
+            "post_id": 2,
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        }
+    },
+    {
+        "model": "blogs.Comment",
+        "pk": 6,
+        "fields": {
+            "post_id": 2,
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        }
+    },
+    {
+        "model": "blogs.Comment",
+        "pk": 7,
+        "fields": {
+            "post_id": 2,
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        }
+    },
+    {
+        "model": "blogs.Comment",
+        "pk": 8,
+        "fields": {
+            "post_id": 2,
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        }
+    },
+    {
+        "model": "blogs.Comment",
+        "pk": 9,
+        "fields": {
+            "post_id": 3,
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        }
+    },
+    {
+        "model": "blogs.Comment",
+        "pk": 10,
+        "fields": {
+            "post_id": 3,
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        }
+    },
+    {
+        "model": "blogs.Comment",
+        "pk": 11,
+        "fields": {
+            "post_id": 3,
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        }
+    },
+    {
+        "model": "blogs.Comment",
+        "pk": 12,
+        "fields": {
+            "post_id": 3,
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        }
+    }
+]
